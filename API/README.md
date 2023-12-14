@@ -1,5 +1,7 @@
 # APIs
 
+> **warning** Necesitas cargo: https://doc.rust-lang.org/cargo/getting-started/installation.html 
+
 ## ¿Qué es una Web API?
 
 En términos simples, una Web API (Interfaz de Programación de Aplicaciones en la Web) actúa como un medio estandarizado para que diferentes aplicaciones se comuniquen a través de la red. Imagina un puente digital que facilita el intercambio de información y funcionalidades entre sistemas diversos.
@@ -52,7 +54,7 @@ pip freeze > requirements.txt
 4. Ejecuta el servidor:
 
 ```bash
-python app.py
+uvicorn main:app --reload
 ```
 
 5. Abre el navegador en la siguiente dirección: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
@@ -61,12 +63,6 @@ python app.py
 
 ```bash
 deactivate
-```
-
-### Run the server
-
-```bash
-uvicorn main:app --reload
 ```
 
 ### Documentación
