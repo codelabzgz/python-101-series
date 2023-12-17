@@ -1,8 +1,13 @@
 # python101
 
-## 1. Introducción
+> [!NOTE]  
+> Si quieres ver las soluciones, puedes ir a la rama [`soluciones`](https://github.com/CodeLabZGZ/python101/tree/soluciones) de este repositorio. 
 
-## 2. Ejericios
+## Ejericios
+
+> [!TIP]
+> Para la realización de los ejercicios, se recomienda el uso de una cheat sheet de Python. 
+> Por ejemplo, [esta](https://www.pythoncheatsheet.org/) o [esta](https://quickref.me/python).
 
 - Nivel Fácil
   - [Ejercicio 1](01-fabrica-de-juguetes.ipynb)
@@ -18,3 +23,7 @@
 - [Ejercicio 9: Ejemplo con Matplotlib](09-plot.ipynb)
 - [Ejercicio 10: Ejemplo con Numpy](10-puzzle.ipynb)
 - [Ejercicio 11: Ejemplo con transformers](10-transformers.ipynb)
+
+## Contacto
+
+Si tienes cualquier duda, no dudes en contactar con nosotros. Tienes nuestras redes sociales en la página web de [CodeLab Zaragoza](https://codelabzgz.github.io/).
