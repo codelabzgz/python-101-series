@@ -1,7 +1,7 @@
 # python-101-23
 
 > [!NOTE]  
-> Si quieres ver las soluciones, puedes ir a la rama [`soluciones`](https://github.com/CodeLabZGZ/python101/tree/soluciones) de este repositorio.
+> Si quieres ver las soluciones, puedes ir a la rama [`soluciones`](https://github.com/CodeLabZGZ/python-101-series/tree/soluciones) de este repositorio.
 
 ## Ejericios
 
