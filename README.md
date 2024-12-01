@@ -1,29 +1,53 @@
-# python101
+# Python 101
 
-> [!NOTE]  
-> Si quieres ver las soluciones, puedes ir a la rama [`soluciones`](https://github.com/CodeLabZGZ/python101/tree/soluciones) de este repositorio. 
+Bienvenido al repositorio **Python 101**, una recopilación de los eventos, talleres y actividades de Python organizados por **CodeLabZGZ** a lo largo de su historia. Este repositorio está diseñado para ser un recurso abierto para aprender y practicar Python, reuniendo ejemplos, soluciones y ejercicios de nuestros eventos.
 
-## Ejericios
+## 📚 Contenido del Repositorio
 
-> [!TIP]
-> Para la realización de los ejercicios, se recomienda el uso de una cheat sheet de Python. 
-> Por ejemplo, [esta](https://www.pythoncheatsheet.org/) o [esta](https://quickref.me/python).
+El repositorio incluye:
 
-- Nivel Fácil
-  - [Ejercicio 1](01-fabrica-de-juguetes.ipynb)
-  - [Ejercicio 2](02-taller-de-santa.ipynb)
-  - [Ejercicio 3](03-elfo-travieso.ipynb)
-  - [Ejercicio 4](04-renos-de-santa.ipynb)
-- Nivel Medio
-  - [Ejercicio 5](05-decode.ipynb)
-  - [Ejercicio 6](06-trineo-electrico.ipynb)
-  - [Ejercicio 7](07-acertijos.ipynb)
-- Nivel Difícil
-  - [Ejercicio 8](08-unicode2023.ipynb)
-- [Ejercicio 9: Ejemplo con Matplotlib](09-plot.ipynb)
-- [Ejercicio 10: Ejemplo con Numpy](10-puzzle.ipynb)
-- [Ejercicio 11: Ejemplo con transformers](10-transformers.ipynb)
+- Materiales y soluciones de talleres.
+- Ejercicios prácticos con Python para principiantes y niveles avanzados.
 
-## Contacto
+## 🚀 Objetivo
 
-Si tienes cualquier duda, no dudes en contactar con nosotros. Tienes nuestras redes sociales en la página web de [CodeLab Zaragoza](https://codelabzgz.github.io/).
+Nuestro objetivo es compartir el conocimiento adquirido en nuestras actividades, creando un punto de referencia para aprender Python y ofrecer a la comunidad herramientas útiles para su desarrollo en este lenguaje.
+
+## 💻 Cómo usar este repositorio
+
+1. Clona este repositorio en tu máquina local:
+   ```bash
+   git clone https://github.com/CodeLabZGZ/python-101.git
+   ```
+2. Navega por las carpetas según el evento o tema que desees explorar.
+3. Sigue las instrucciones incluidas en cada directorio para ejecutar los ejemplos y ejercicios.
+
+## 🤝 Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas aportar ejercicios, corregir errores o proponer nuevas ideas:
+
+1. Haz un fork del repositorio.
+2. Crea una rama para tu cambio:
+
+```bash
+git checkout -b mi-contribucion
+```
+
+3. Realiza tus cambios y haz un commit:
+
+```bash
+ git commit -m "Descripción del cambio"
+```
+
+4. Haz un pull request para que revisemos tus cambios.
+
+## 📧 Contacto
+
+Si tienes dudas, sugerencias o simplemente quieres saber más sobre CodeLabZGZ, puedes contactarnos a través de:
+
+- **Correo electrónico**: [codelabzgz@unizar.es](mailto:codelabzgz@unizar.es)
+- **Sitio web**: [codelabzgz.dev](https://codelabzgz.dev)
+
+## 🛠 Licencia
+
+El contenido de este repositorio está disponible bajo la licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente, siempre y cuando menciones la fuente original.
