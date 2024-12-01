@@ -2,7 +2,7 @@
 
 ## Contenido de la Carpeta
 
-1. **Diapositivas por Alejandro Gómez**  
+1. **Diapositivas por [Alejandro Gómez](https://www.linkedin.com/in/alejandrogomez99)**  
    Presentación utilizada durante el evento. Incluye los conceptos principales, ejemplos y explicaciones relacionadas con los fundamentos de python.
 
 2. **Solución del Reto de Calentamiento**  
