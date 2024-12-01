@@ -1,29 +1,27 @@
 # python-101-23
 
-> [!NOTE]  
-> Si quieres ver las soluciones, puedes ir a la rama [`soluciones`](https://github.com/CodeLabZGZ/python101/tree/soluciones) de este repositorio.
-
 ## Ejericios
 
 > [!TIP]
 > Para la realización de los ejercicios, se recomienda el uso de una cheat sheet de Python.
 > Por ejemplo, [esta](https://www.pythoncheatsheet.org/) o [esta](https://quickref.me/python).
 
+- [Introducción](00-intro-to-python.ipynb)
 - Nivel Fácil
-  - [Ejercicio 1](01-fabrica-de-juguetes.ipynb)
-  - [Ejercicio 2](02-taller-de-santa.ipynb)
-  - [Ejercicio 3](03-elfo-travieso.ipynb)
-  - [Ejercicio 4](04-renos-de-santa.ipynb)
+  - [Ejercicio 1](exercises/01-fabrica-de-juguetes/statement.ipynb)
+  - [Ejercicio 2](exercises/02-taller-de-santa/statement.ipynb)
+  - [Ejercicio 3](exercises/03-elfo-travieso/statement.ipynb)
+  - [Ejercicio 4](exercises/04-renos-de-santa/statement.ipynb)
 - Nivel Medio
-  - [Ejercicio 5](05-decode.ipynb)
-  - [Ejercicio 6](06-trineo-electrico.ipynb)
-  - [Ejercicio 7](07-acertijos.ipynb)
+  - [Ejercicio 5](exercises/05-decode/statement.ipynb)
+  - [Ejercicio 6](exercises/06-trineo-electrico/statement.ipynb)
+  - [Ejercicio 7](exercises/07-acertijos/statement.ipynb)
 - Nivel Difícil
-  - [Ejercicio 8](08-unicode2023.ipynb)
-- [Ejercicio 9: Ejemplo con Matplotlib](09-plot.ipynb)
-- [Ejercicio 10: Ejemplo con Numpy](10-puzzle.ipynb)
-- [Ejercicio 11: Ejemplo con transformers](10-transformers.ipynb)
+  - [Ejercicio 8](exercises/08-unicode-23/statement.ipynb)
+- [Ejercicio 9: Ejemplo con Matplotlib](examples/01-plot.ipynb)
+- [Ejercicio 10: Ejemplo con Numpy](examples/02-puzzle.ipynb)
+- [Ejercicio 11: Ejemplo con transformers](examples/03_transformers.ipynb)
 
 ## Contacto
 
-Si tienes cualquier duda, no dudes en contactar con nosotros. Tienes nuestras redes sociales en la página web de [CodeLab Zaragoza](https://codelabzgz.dev/).
+Si tienes cualquier duda, no dudes en contactar con nosotros. Tienes nuestras redes sociales en la página web de [CodeLabZGZ](https://codelabzgz.dev/).
