@@ -23,7 +23,3 @@
 - [Ejercicio 9: Ejemplo con Matplotlib](09-plot.ipynb)
 - [Ejercicio 10: Ejemplo con Numpy](10-puzzle.ipynb)
 - [Ejercicio 11: Ejemplo con transformers](10-transformers.ipynb)
-
-## Contacto
-
-Si tienes cualquier duda, no dudes en contactar con nosotros. Tienes nuestras redes sociales en la página web de [CodeLab Zaragoza](https://codelabzgz.dev/).
