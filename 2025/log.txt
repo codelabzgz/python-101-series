@@ -1,0 +1,7 @@
+INFO: Servicio iniciado
+DEBUG: Running on port 5000
+DEBUG: Cache size is 200 MB
+
+WARN: Memoria alta
+ERROR: DB Connection Timeout
+INFO: Usuario logout
